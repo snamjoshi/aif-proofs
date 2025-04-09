@@ -1,0 +1,114 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{BlackScholes}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=93277dfc1ebe8d44428e74799781e4d7}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Fischer},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=301bb16d9f303a488dac1c73931c0eff}{%
+           family={Scholes},
+           familyi={S\bibinitperiod},
+           given={Myron},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{fullhash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{bibnamehash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{authorbibnamehash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{authornamehash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{authorfullhash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{3}
+      \field{title}{The Pricing of Options and Corporate Liabilities}
+      \field{volume}{81}
+      \field{year}{1973}
+      \true{nocite}
+      \field{pages}{637\bibrangedash 654}
+      \range{pages}{18}
+    \endentry
+    \entry{Merton}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c3f731f9ca291dbbd115d8d64bbc45e}{%
+           family={Merton},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c3f731f9ca291dbbd115d8d64bbc45e}
+      \strng{fullhash}{5c3f731f9ca291dbbd115d8d64bbc45e}
+      \strng{bibnamehash}{5c3f731f9ca291dbbd115d8d64bbc45e}
+      \strng{authorbibnamehash}{5c3f731f9ca291dbbd115d8d64bbc45e}
+      \strng{authornamehash}{5c3f731f9ca291dbbd115d8d64bbc45e}
+      \strng{authorfullhash}{5c3f731f9ca291dbbd115d8d64bbc45e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Bell Journal of Economics and Management Science}
+      \field{number}{1}
+      \field{title}{Theory of Rational Option Pricing}
+      \field{volume}{4}
+      \field{year}{1973}
+      \true{nocite}
+      \field{pages}{141\bibrangedash 183}
+      \range{pages}{43}
+    \endentry
+    \entry{Hull}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8eb46e2417b472d17c974e4c3bc21987}{%
+           family={Hull},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{8eb46e2417b472d17c974e4c3bc21987}
+      \strng{fullhash}{8eb46e2417b472d17c974e4c3bc21987}
+      \strng{bibnamehash}{8eb46e2417b472d17c974e4c3bc21987}
+      \strng{authorbibnamehash}{8eb46e2417b472d17c974e4c3bc21987}
+      \strng{authornamehash}{8eb46e2417b472d17c974e4c3bc21987}
+      \strng{authorfullhash}{8eb46e2417b472d17c974e4c3bc21987}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9}
+      \field{title}{Options, Futures, and Other Derivatives}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,270 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{3}{chapter*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents\ttl@gmk {\@mkboth {\MakeUppercase {Contents}}{\MakeUppercase {Contents}}}}{5}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{9}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{11}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{I\hspace {1em}First part}{13}{part.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Black-Scholes Model for Pricing Call and Put Options}{15}{chapter.1.1}%
+\ttl@starttoc {chapters@1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{16}{section.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{16}{section.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{17}{section.1.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{18}{section.1.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{18}{section.1.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{18}{subsection.1.1.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{18}{subsection.1.1.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{19}{subsection.1.1.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{19}{subsection.1.1.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{19}{subsection.1.1.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{19}{section.1.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{19}{section.1.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Black-Scholes Model for Pricing Call and Put Options}{21}{chapter.1.2}%
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{22}{section.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{22}{section.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{23}{section.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{24}{section.1.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{24}{section.1.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{24}{subsection.1.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{24}{subsection.1.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{25}{subsection.1.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{25}{subsection.1.2.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{25}{subsection.1.2.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{25}{section.1.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{25}{section.1.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Black-Scholes Model for Pricing Call and Put Options}{27}{chapter.1.3}%
+\ttl@stoptoc {chapters@2}
+\ttl@starttoc {chapters@3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{28}{section.1.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{28}{section.1.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{29}{section.1.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{30}{section.1.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{30}{section.1.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{30}{subsection.1.3.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{30}{subsection.1.3.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{31}{subsection.1.3.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{31}{subsection.1.3.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{31}{subsection.1.3.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{31}{section.1.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{31}{section.1.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{II\hspace {1em}Second part}{33}{part.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Black-Scholes Model for Pricing Call and Put Options}{35}{chapter.2.1}%
+\ttl@stoptoc {chapters@3}
+\ttl@starttoc {chapters@4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{36}{section.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{36}{section.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{37}{section.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{38}{section.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{38}{section.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{38}{subsection.2.1.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{38}{subsection.2.1.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{39}{subsection.2.1.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{39}{subsection.2.1.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{39}{subsection.2.1.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{39}{section.2.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{39}{section.2.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Black-Scholes Model for Pricing Call and Put Options}{41}{chapter.2.2}%
+\ttl@stoptoc {chapters@4}
+\ttl@starttoc {chapters@5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{42}{section.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{42}{section.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{43}{section.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{44}{section.2.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{44}{section.2.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{44}{subsection.2.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{44}{subsection.2.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{45}{subsection.2.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{45}{subsection.2.2.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{45}{subsection.2.2.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{45}{section.2.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{45}{section.2.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Black-Scholes Model for Pricing Call and Put Options}{47}{chapter.2.3}%
+\ttl@stoptoc {chapters@5}
+\ttl@starttoc {chapters@6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{48}{section.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{48}{section.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{49}{section.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{50}{section.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{50}{section.2.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{50}{subsection.2.3.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{50}{subsection.2.3.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{51}{subsection.2.3.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{51}{subsection.2.3.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{51}{subsection.2.3.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{51}{section.2.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{51}{section.2.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{III\hspace {1em}Third part}{53}{part.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Black-Scholes Model for Pricing Call and Put Options}{55}{chapter.3.1}%
+\ttl@stoptoc {chapters@6}
+\ttl@starttoc {chapters@7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{56}{section.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{56}{section.3.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{57}{section.3.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{58}{section.3.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{58}{section.3.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{58}{subsection.3.1.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{58}{subsection.3.1.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{59}{subsection.3.1.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{59}{subsection.3.1.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{59}{subsection.3.1.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{59}{section.3.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{59}{section.3.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Black-Scholes Model for Pricing Call and Put Options}{61}{chapter.3.2}%
+\ttl@stoptoc {chapters@7}
+\ttl@starttoc {chapters@8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{62}{section.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{62}{section.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{63}{section.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{64}{section.3.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{64}{section.3.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{64}{subsection.3.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{64}{subsection.3.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{65}{subsection.3.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{65}{subsection.3.2.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{65}{subsection.3.2.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{65}{section.3.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{65}{section.3.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Black-Scholes Model for Pricing Call and Put Options}{67}{chapter.3.3}%
+\ttl@stoptoc {chapters@8}
+\ttl@starttoc {chapters@9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Assumptions of the Black-Scholes Model}{68}{section.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Derivation of the Black-Scholes Equation}{68}{section.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Solution to the Black-Scholes Equation for Call Options}{69}{section.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Solution to the Black-Scholes Equation for Put Options}{70}{section.3.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Greeks in the Black-Scholes Model}{70}{section.3.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Delta}{70}{subsection.3.3.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Gamma}{70}{subsection.3.3.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Theta}{71}{subsection.3.3.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vega}{71}{subsection.3.3.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Rho}{71}{subsection.3.3.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Numerical Examples}{71}{section.3.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{71}{section.3.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{73}{chapter*.5}%
+\contentsfinish 
