@@ -36,7 +36,7 @@ About this book
    4. Variational free energy under the Laplace/Quadratic approximation and diagonal covariance matrices
    5. The generalized state-space model (including generalized prediction errors)
    6. Variational free energy for the generalized state-space model and diagonal covariance matrices
-   7. Variational free energy for the generalized state-space model using the generalized precision matrix
+   7. Variational free energy for the generalized state-space model using the generalized precision matrix (derive precision matrix)
    8. Gradient flow of hidden states (univariate and multivariate cases, generalized case)
       1. Univariate
       2. Multivariate
